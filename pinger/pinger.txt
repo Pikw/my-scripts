@@ -1,0 +1,4 @@
+Node with IP: 192.168.22.1 is up.
+Node with IP: 192.168.22.211 is up.
+Node with IP: 192.168.22.215 is up.
+Node with IP: 192.168.22.254 is up.
